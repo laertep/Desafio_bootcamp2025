@@ -7,5 +7,6 @@ Objetivo do projeto
 
 Visa demonstrar através de um ambiente controlado os comandos que simulam ataque de força bruta em serviços direcionados ao FTP, WEB e SMB
 
-![Uploading image.png…]()
+<img width="2640" height="1320" alt="image" src="https://github.com/user-attachments/assets/92c74f0a-60d9-4c85-8270-2d723d335736" />
+
 
